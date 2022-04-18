@@ -1,0 +1,19 @@
+th, td {
+    border:2px solid rgb(37, 38, 40)
+}
+caption { 
+    font-weight: bold;
+    font-size: 24px;
+    text-align: left;
+    color:rgb(97, 177, 220)
+ }
+table {
+    border-collapse: collapse;
+    border: 3px solid rgb(206, 170, 239);
+    text-align: center;
+    vertical-align:  middle;
+}
+
+thead th {
+    width: 25%;
+}
